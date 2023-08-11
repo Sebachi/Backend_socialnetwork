@@ -9,7 +9,9 @@
         "followers": [2, 5],
         "following": [3, 5],
         "posts": [1],
-        "portrait": "https://i.ibb.co/j53bbf5/download-1.jpg"
+        "portrait": "https://i.ibb.co/j53bbf5/download-1.jpg",
+        "description": "Follow me and like my post",
+        "password": "12345"
       },
       {
         "id": 2,
@@ -20,7 +22,9 @@
         "portrait": "https://i.ibb.co/ydSTWNV/5-of-the-Most-Popular-Black-Hairstyles-on-Pinterest.jpg",
         "followers": [3, 4],
         "following": [1],
-        "posts": [2, 5]
+        "posts": [2, 5],
+        "description": "Enjoying my life",
+        "password": "12345"
       },
       {
         "id": 3,
@@ -31,7 +35,9 @@
         "followers": [1],
         "following": [2, 4],
         "posts": [3],
-        "portrait": "https://i.ibb.co/hs8vhdj/New-Hair-And-beard-Style-2022-Hairstyle-Beard-style-For-Men-2022-You-Tube.jpg"
+        "portrait": "https://i.ibb.co/hs8vhdj/New-Hair-And-beard-Style-2022-Hairstyle-Beard-style-For-Men-2022-You-Tube.jpg",
+        "description": "Exploring new horizons",
+        "password": "12345"
       },
       {
         "id": 4,
@@ -42,7 +48,9 @@
         "portrait": "https://i.ibb.co/LgqmL3d/keith-3.jpg",
         "followers": [2, 3],
         "following": [5],
-        "posts": []
+        "posts": [],
+        "description": "Embracing the journey",
+        "password": "12345"
       },
       {
         "id": 5,
@@ -53,7 +61,9 @@
         "portrait": "https://i.ibb.co/dJbyFSS/Nosomnia-Fall-Winter-2015-Lookbook-Fucking-Young.jpg",
         "followers": [1, 4],
         "following": [1],
-        "posts": []
+        "posts": [],
+        "description": "Living life to the fullest",
+        "password": "12345"
       }
     ],"comments": [
         {
