@@ -139,6 +139,21 @@
             "tag": [3, 4],
             "type": "photo",
             "time": 1692133200000
+          },
+          {
+            "id": 6,
+            "userId": 1,
+            "media": "https://w0.peakpx.com/wallpaper/326/230/HD-wallpaper-jennie-blackpink.jpg",
+            "caption": "Un gran dia soleado",
+            "likes": [
+            ],
+            "comments": [
+              1
+            ],
+            "tag": [
+            ],
+            "type": "photo",
+            "time": 1691798400000
           }
       ]
   }
