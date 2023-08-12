@@ -58,7 +58,7 @@
         "name": "Usuario Cinco",
         "email": "usuario5@example.com",
         "avatar": "https://i.ibb.co/5K9gQM4/Joseph-Barrett.jpg",
-        "portrait": "https://wallpapers.com/images/hd/spiderman-in-the-corner-hr6k8abdba0fbnv6.jpg",
+        "portrait": "https://wallpapers.com/medias/hd/spiderman-in-the-corner-hr6k8abdba0fbnv6.jpg",
         "followers": [1, 4],
         "following": [1],
         "posts": [],
@@ -78,7 +78,7 @@
         {
           "id": 1,
           "userId": 1,
-          "image": "https://as2.ftcdn.net/v2/jpg/00/86/42/77/1000_F_86427795_exIQTVbyZQZyWPhAgnAVmNyX2vIQPNjt.jpg",
+          "media": "https://as2.ftcdn.net/v2/jpg/00/86/42/77/1000_F_86427795_exIQTVbyZQZyWPhAgnAVmNyX2vIQPNjt.jpg",
           "caption": "¡Mi primera foto en esta red social!",
           "likes": [],
           "comments": [1],
@@ -89,7 +89,7 @@
         {
             "id": 2,
             "userId": 2,
-            "image": "https://as2.ftcdn.net/v2/jpg/01/32/61/73/1000_F_132617321_lLKkGC7iNDEAuWsKAnq6IvnNVL99CfZn.jpg",
+            "media": "https://as2.ftcdn.net/v2/jpg/01/32/61/73/1000_F_132617321_lLKkGC7iNDEAuWsKAnq6IvnNVL99CfZn.jpg",
             "caption": "Disfrutando de un día soleado",
             "likes": [1],
             "comments": [],
@@ -100,7 +100,7 @@
           {
             "id": 3,
             "userId": 3,
-            "image": "https://static.nationalgeographic.es/files/styles/image_3200/public/epic-trails-camino-de-santiago.jpg?w=1600",
+            "media": "https://static.nationalgeographic.es/files/styles/media_3200/public/epic-trails-camino-de-santiago.jpg?w=1600",
             "caption": "Explorando nuevos lugares",
             "likes": [],
             "comments": [],
@@ -111,7 +111,7 @@
           {
             "id": 4,
             "userId": 4,
-            "image": "https://us.123rf.com/450wm/madrabothair/madrabothair1603/madrabothair160300543/54587552-en-un-d%C3%ADa-lluvioso-con-el-paraguas-de-la-lluvia-en-la-ciudad.jpg",
+            "media": "https://us.123rf.com/450wm/madrabothair/madrabothair1603/madrabothair160300543/54587552-en-un-d%C3%ADa-lluvioso-con-el-paraguas-de-la-lluvia-en-la-ciudad.jpg",
             "caption": "Reflexiones de un día lluvioso",
             "likes": [],
             "comments": [],
@@ -122,7 +122,7 @@
           {
             "id": 5,
             "userId": 5,
-            "image": "https://img.europapress.es/fotoweb/fotonoticia_20200919082936_1200.jpg",
+            "media": "https://img.europapress.es/fotoweb/fotonoticia_20200919082936_1200.jpg",
             "caption": "Momentos felices con amigos",
             "likes": [3, 4],
             "comments": [],
