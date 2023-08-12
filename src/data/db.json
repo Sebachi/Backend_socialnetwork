@@ -11,7 +11,9 @@
         "posts": [1],
         "portrait": "https://wallpaperaccess.com/full/1099769.jpg",
         "description": "Follow me and like my post",
-        "password": "12345"
+        "password": "12345",
+        "postStore": [],
+        "likesStore": []
       },
       {
         "id": 2,
@@ -24,7 +26,9 @@
         "following": [1],
         "posts": [2, 5],
         "description": "Enjoying my life",
-        "password": "12345"
+        "password": "12345",
+        "postStore": [],
+        "likesStore": []
       },
       {
         "id": 3,
@@ -37,7 +41,9 @@
         "posts": [3],
         "portrait": "https://www.boredpanda.com/blog/wp-content/uploads/2016/11/handsome-old-men-fb4-png__700.jpg",
         "description": "Exploring new horizons",
-        "password": "12345"
+        "password": "12345",
+        "postStore": [],
+        "likesStore": []
       },
       {
         "id": 4,
@@ -50,7 +56,9 @@
         "following": [5],
         "posts": [],
         "description": "Embracing the journey",
-        "password": "12345"
+        "password": "12345",
+        "postStore": [],
+        "likesStore": []
       },
       {
         "id": 5,
@@ -63,7 +71,9 @@
         "following": [1],
         "posts": [],
         "description": "Living life to the fullest",
-        "password": "12345"
+        "password": "12345",
+        "postStore": [],
+        "likesStore": []
       }
     ],"comments": [
         {
