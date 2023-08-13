@@ -101,7 +101,7 @@
             "userId": 2,
             "media": "https://as2.ftcdn.net/v2/jpg/01/32/61/73/1000_F_132617321_lLKkGC7iNDEAuWsKAnq6IvnNVL99CfZn.jpg",
             "caption": "Disfrutando de un día soleado",
-            "likes": [1],
+            "likes": [],
             "comments": [],
             "tag": [1],
             "type": "photo",
@@ -134,7 +134,7 @@
             "userId": 5,
             "media": "https://img.europapress.es/fotoweb/fotonoticia_20200919082936_1200.jpg",
             "caption": "Momentos felices con amigos",
-            "likes": [3, 4],
+            "likes": [],
             "comments": [],
             "tag": [3, 4],
             "type": "photo",
@@ -163,7 +163,7 @@
             "likes": [
             ],
             "comments": [
-              1
+              
             ],
             "tag": [
             ],
