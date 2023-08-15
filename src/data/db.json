@@ -7,7 +7,7 @@
         "email": "usuario1@example.com",
         "avatar": "https://i.ibb.co/D4DPrCt/download.jpg",
         "followers": [2, 5],
-        "following": [3, 5],
+        "following": [3, 5, 4],
         "posts": [1],
         "portrait": "https://wallpaperaccess.com/full/1099769.jpg",
         "description": "Follow me and like my post",
